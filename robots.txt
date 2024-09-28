@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nfaea.github.io/ugB/sitemap.ugB.gz
